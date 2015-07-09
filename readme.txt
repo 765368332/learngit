@@ -3,3 +3,4 @@ Git is free software under GPL.
 Git has a mutable index called stage.
 
 creating a new branch is quick and simple.
+creating the dev branch
